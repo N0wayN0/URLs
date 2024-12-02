@@ -1,7 +1,7 @@
 # URLs
 A few important urls...
 
- - [name here](https://github.com/Sos.md)  
+ - [conky](https://github.com/N0wayN0/URLs/blob/master/conky.md)  
 
  - [name here](https://github.com/ox.md)  
    
