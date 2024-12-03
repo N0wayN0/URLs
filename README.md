@@ -7,6 +7,8 @@ A few important urls...
    
  - [List of usefull apps for Linux](https://wiki.archlinux.org/title/List_of_applications/Utilities)
 
- - [Linux on Smartphone](https://github.com/N0wayN0/URLs/blob/main/Linux_on_Android.md))
+ - [Linux on Smartphone](https://github.com/N0wayN0/URLs/blob/main/Linux_on_Android.md)
+
+ - [emojis SVG](https://github.com/axtloss/noto-emoji-fixed/tree/main/svg)
 
  - [tamplate](https://github.com/SayantanRC/URLs/blob/master/README.md)
