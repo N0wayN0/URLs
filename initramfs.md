@@ -26,3 +26,5 @@ Replace the default initramfs path (e.g., initrd.img-<version>) with your new on
 
 Do not modify the kernel line or the root filesystem line.
 Press <kbd>Ctrl</kbd>+<kbd>X</kbd> or <kbd>F10</kbd> to boot with the modified settings.
+
+[unpacking](https://linuxconfig.org/how-to-uncompress-and-list-an-initramfs-content-on-linux)
