@@ -2,8 +2,15 @@
     $ sudo unmkinitramfs /path/to/initramfs.img /path/to/extracted-directory
 
 
-## Pack it
+## Pack it (i think its wrong)
  $ sudo mkinitramfs -o /path/to/new-initramfs.img kernel-version
+
+### this one should work:
+$ cd /path/to/modified-initramfs
+$ find . | cpio -o -H newc | gzip > /boot/new-initramfs.gz
+
+
+
 
 ## Interrupt the Boot at GRUB:
 
