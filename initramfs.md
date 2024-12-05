@@ -3,10 +3,10 @@
 
 
 ## Pack it (i think its wrong)
- $ sudo mkinitramfs -o /path/to/new-initramfs.img kernel-version
+    $ sudo mkinitramfs -o /path/to/new-initramfs.img kernel-version
 
 ### this one should work:
-$ cd /path/to/modified-initramfs
+    $ cd /path/to/modified-initramfs
 $ find . | cpio -o -H newc | gzip > /boot/new-initramfs.gz
 
 
