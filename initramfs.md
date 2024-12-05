@@ -7,7 +7,7 @@
 
 ### this one should work:
     $ cd /path/to/modified-initramfs
-$ find . | cpio -o -H newc | gzip > /boot/new-initramfs.gz
+    $ find . | cpio -o -H newc | gzip > /boot/new-initramfs.gz
 
 
 
