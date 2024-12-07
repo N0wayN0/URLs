@@ -12,3 +12,6 @@ A few important urls...
  - [emojis SVG](https://github.com/axtloss/noto-emoji-fixed/tree/main/svg)
 
  - [tamplate](https://github.com/SayantanRC/URLs/blob/master/README.md)
+
+- [simple todo](https://github.com/mrbooshehri/cmd-todo)
+  
