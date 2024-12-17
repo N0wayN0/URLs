@@ -13,7 +13,7 @@ A few important urls...
 
  - [tamplate](https://github.com/SayantanRC/URLs/blob/master/README.md)
 
-- [xdotool] (https://www.linux.org/threads/xdotool-window.10606/)
+- [xdotool](https://www.linux.org/threads/xdotool-window.10606/)
   
 - [simple todo](https://github.com/mrbooshehri/cmd-todo)
   
