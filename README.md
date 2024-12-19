@@ -20,6 +20,8 @@ A few important urls...
  - [tamplate](https://github.com/SayantanRC/URLs/blob/master/README.md)
 
 - [xdotool](https://www.linux.org/threads/xdotool-window.10606/)
+
+- [xdotool examples](https://github.com/jordansissel/xdotool/tree/master/examples)
   
 - [simple todo](https://github.com/mrbooshehri/cmd-todo)
   
