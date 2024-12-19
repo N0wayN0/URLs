@@ -9,6 +9,8 @@ A few important urls...
 
  - [more apps](https://github.com/alebcay/awesome-shell)
 
+ - [scripts](https://github.com/mrbooshehri/scripts/tree/master)
+
  - [hacking resources](https://github.com/carpedm20/awesome-hacking?tab=readme-ov-file)
 
  - [Linux on Smartphone](https://github.com/N0wayN0/URLs/blob/main/Linux_on_Android.md)
