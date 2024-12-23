@@ -24,4 +24,6 @@ A few important urls...
 - [xdotool examples](https://github.com/jordansissel/xdotool/tree/master/examples)
   
 - [simple todo](https://github.com/mrbooshehri/cmd-todo)
+
+- [android file transfer](https://askubuntu.com/questions/830714/mtp-connection-unable-to-mount-samsung-android-error-many-times-in-a-minute)
   
