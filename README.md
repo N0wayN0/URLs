@@ -27,3 +27,4 @@ A few important urls...
 
 - [android file transfer](https://askubuntu.com/questions/830714/mtp-connection-unable-to-mount-samsung-android-error-many-times-in-a-minute)
   
+ - [bash](https://github.com/N0wayN0/URLs/blob/main/Bash.md)
