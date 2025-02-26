@@ -5,7 +5,7 @@ A few important urls...
 
  - [startup sound](https://github.com/N0wayN0/URLs/blob/main/startup_sound.md)
 
- - [Initramfs Debug](https://github.com/N0wayN0/URLs/blob/main/initramfs.md)
+ - [Initramfs Debug](https://github.com/N0wayN0/URLs/blob/main/Initramfs_debug.md)
  
  - [List of usefull apps for Linux](https://wiki.archlinux.org/title/List_of_applications/Utilities)
 
